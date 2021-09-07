@@ -19,7 +19,7 @@ document.getElementById("est").innerHTML=(texto);
 return true;
 }
 function pres(){
-	document.getElementById("txto").innerHTML=("ola");				
+	document.getElementById("txto").innerHTML=("teste");				
 }
  
 
