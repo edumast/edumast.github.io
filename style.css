@@ -37,4 +37,12 @@ color: white;
 				height: 100px;
 				
 }
+.escp{
+				border-color:#2b2eff;
+border-style:outset;
 
+font: bold 30px arial, sans-serif;
+text-shadow:none;
+background: #321531;
+color: white;
+} 
