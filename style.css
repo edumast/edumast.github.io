@@ -51,3 +51,16 @@ color: white;
 				
 				
 }
+.escpp{
+				border-color:#2b2eff;
+border-style:outset;
+width: 200px;
+font: bold 50px arial, sans-serif;
+text-shadow:none;
+background: #d11156;
+color: #00c0ff;
+}
+.gf{
+				width: 500px;
+				height: 500px;
+}
