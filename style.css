@@ -66,3 +66,22 @@ color: #00c0ff;
 				width: 500px;
 				height: 500px;
 }
+
+.escpb{border-color:#2b2eff;
+border-style:outset;
+height: 150px;
+width: 300px;
+font: bold 30px arial, sans-serif;
+text-shadow:none;
+background: #5558ff;
+color: white;
+}
+.sb{
+				margin-top:-20px;
+				
+}
+.lt{
+				font: bold 30px arial, sans-serif;
+text-shadow:none;
+				
+}
