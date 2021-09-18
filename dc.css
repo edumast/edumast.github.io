@@ -47,6 +47,7 @@ width: 500px;
   text-align: center;
   font-weight: bold;
   font-size: 40px;
+  color:white;
 }
 .esq{
 transform: rotateX(90deg)
@@ -59,6 +60,7 @@ width: 500px;
   text-align: center;
   font-weight: bold;
   font-size: 40px;
+  
 }
 .dir{
 transform: rotateX(90deg)
@@ -71,6 +73,7 @@ width: 500px;
   text-align: center;
   font-weight: bold;
   font-size: 40px;
+  
 }
 .cim{
 
@@ -82,6 +85,7 @@ width: 500px;
   font-weight: bold;
   font-size: 40px;
   transform:translatex(250px) translatez(250px) translateY(-2000px) rotatey(-90deg);
+  
 }
 .bax{
   
@@ -93,4 +97,5 @@ width: 500px;
   font-weight: bold;
   font-size: 40px;
   transform:translatex(-250px) translatez(250px) translateY(-2500px) rotatey(-90deg);
+  
 }
