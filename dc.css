@@ -100,3 +100,6 @@ width: 500px;
   transform:translatex(-250px) translatez(250px) translateY(-2500px) rotatey(-90deg);
   
 }
+.inv{
+    transform: scaleX(-1);
+}
