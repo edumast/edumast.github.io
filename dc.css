@@ -11,6 +11,7 @@
   display: flex;
   justify-content: center;
   align-items: center; 
+  
 }
 .cbbx{
 width: 100%;
@@ -22,8 +23,8 @@ transform-style: preserve-3d;
   
 }
 @keyframes rotation {
-  0% { transform: rotateY(-200deg) rotateX(0deg); }
-  100% { transform: rotateY(2000deg) rotateX(0deg); }
+  0% { transform: rotateY(-200deg) rotateX(10deg) ; }
+  100% { transform: rotateY(2000deg) rotateX(10deg); }
 }
 
 
