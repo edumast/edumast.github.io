@@ -71,13 +71,7 @@ edumastprofissional@gmail.com
 																				<li>
 																								cod.py
 																</li>									
-																</a>
-																		</h1>
-												</ol>
-												<h1 class="escp">
-																codigo fonte do site
-												<ol>
-																							<a href="index.txt">
+																<a href="index.txt">
 																				<li>
 																								index.html
 																				</li>
@@ -94,44 +88,17 @@ edumastprofissional@gmail.com
 																				</li>
 																				
 																</a>
-																	<a href="info.txt">
-																				<li>
-																								info.html
-																				</li>
-																				
-																</a>																					         																		<a href="dc3.txt">
-																				<li>
-																								dc3.html
-																				</li>
-																				
-																</a>																							
-																<a href="dc.css">
-																				<li>
-																								dc.css
-																				</li>
-																				
-																</a>												 
-																<a href="museu.txt">
-																				<li>
-																								museu.html
-																				</li>
-																				
-																</a>			 
+																																																							         																													
+																</a>
+																
 												</ol>
-												</h1>
-											<h1	class="escp"> 
-												<a href="https://github.com/edumast/edumast.github.io">
-												<h1>
-																codigo fonte atualizado
-												</h1>
-								</a>
-								crique em view code e e aperte no nome do arquivo a ser visualizado           
-								
+												
+												
 								</h1>
 												<a href="dc3.html" >
 								<Button class="escpb vd">
 				
-												<h1>
+												<h1 >
 																voltar
 																
 												</h1>
