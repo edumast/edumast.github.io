@@ -130,3 +130,9 @@ margin-top:1500px;
 #switch{
 pó	display: none;
 }
+.bdm{
+				border-radius:5%;
+}
+.bdr{
+				border-radius:10%;
+}
