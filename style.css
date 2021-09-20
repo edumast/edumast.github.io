@@ -21,6 +21,13 @@ text-shadow:none;
 background: #1b96a3;
 color: white;
 }
+.cr{
+				cursor:pointer;
+				
+}
+.szul{
+				box-shadow:0 10px 0 #556dff;
+}
 .esc{
 				border-color:#2b2eff;
 border-style:outset;
