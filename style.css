@@ -66,7 +66,7 @@ border-style:outset;
 width: 200px;
 font: bold 50px arial, sans-serif;
 text-shadow:none;
-background: #d11156;
+background: #d71259;
 color: #00c0ff;
 }
 .gf{
@@ -83,6 +83,10 @@ text-shadow:none;
 
 color: white;
 }
+.bdg{
+				border-width:10px;
+				border-style:ridge;
+}
 .ved{
 		background: #5558ff;	
 }
@@ -96,7 +100,7 @@ text-shadow:none;
 				
 }
 
-.vd{background: #fff100;}
+.vd{background: #fff100; color:#4063ff;}
 .cimm{
 				margin-top:500px;
 				}
