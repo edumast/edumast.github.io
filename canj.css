@@ -1,0 +1,30 @@
+.g{
+height:100px;
+width:100px;
+}
+.esp{
+				margin-top:200px;
+}
+.qc{
+				width: 150px;
+				height: 150px;
+				background: blue;
+}
+.dir{
+	margin-left:300px	;
+	margin-top:500px;
+}
+.esq{
+	margin-left:-300px;
+	margin-top:-150px;
+}
+.cim{
+				margin-top:-300px;
+}
+.bax{
+	margin-top:150px;			
+}
+.fl{float:left};
+.cn{
+    display: inline-block;
+}
