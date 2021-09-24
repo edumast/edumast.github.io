@@ -6,12 +6,11 @@ width:100px;
 				margin-top:200px;
 }
 .qc{
-				width: 150px;
-				height: 150px;
-				background: blue;
+				width:150px;
+				height:150px;
+				background:blue;
 }
 .dir{
-	margin-left:00px	;
 	margin-top:450px;
 	border-top-right-radius:20%;
 	border-bottom-right-radius:20%;
@@ -41,5 +40,5 @@ border-radius:20%;
 background:#ff000a;
 }
 .fl{float:left};
-.cn{display: inline-block;
+.cn{display:inline-block;
 }
