@@ -17,7 +17,7 @@
 						can=document.getElementById("tc");
 						ctx=can.getContext("2d");								
 						ctx.clearRect(x, y, w, h);											
-						ctx.fillStyle = clu;														
+						ctx.fillStyle=clu;														
 						ctx.fillRect(x , y, w, h);
 						requestAnimationFrame(loop) 
 				
