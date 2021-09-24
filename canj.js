@@ -148,7 +148,7 @@ function bope(){
 										}
 					
 		}
-
+$('#vlt').click(function(){ window.location = "dc3.html"; });
 
 											
 
