@@ -30,8 +30,8 @@
 						} 						
 						function lbp(){
 						ctx.fillStyle="blue";				
-ctx.clearRect(xp, yp, wp,hp);																	
-ctx.fillRect(xp , yp, wp, hp);
+ctx.clearRect(xp,yp,wp,hp);																	
+ctx.fillRect(xp,yp,wp,hp);
 	
 requestAnimationFrame(lbp) 											
 } 
@@ -137,7 +137,7 @@ function bope(){
 		if(bop==1) {
 	
 
-										ctx.clearRect(xp, yp, wp, hp);					
+										ctx.clearRect(xp,yp,wp,hp);					
 																xp=xp+1;															
 					
 									
