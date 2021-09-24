@@ -45,7 +45,7 @@ background:#ff000a;
 .cn{display:inline-block;
 }
 .sar{
-				background: grey;
+				background:grey;
 				transform:rotate(-20deg);
 				height:50px;
 				width:200px;
@@ -59,6 +59,6 @@ background:#ff000a;
 }
 a {
    color: #000;
-   text-decoration: none; 
+   text-decoration:none; 
 }
 
