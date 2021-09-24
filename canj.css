@@ -34,6 +34,8 @@ width:100px;
 				margin-left:-300px;
 }
 .btp{
+width:150px;
+height:150px;
 margin-left:500px;
 margin-top:-300px;
 border-radius:20%;
@@ -42,3 +44,21 @@ background:#ff000a;
 .fl{float:left};
 .cn{display:inline-block;
 }
+.sar{
+				background: grey;
+				transform:rotate(-20deg);
+				height:50px;
+				width:200px;
+				border-radius:20%;
+				margin-left:200px;
+}
+.vtn{
+				margin-top:40px;
+				margin-left:10px;
+				color:#5c40ff;
+}
+a {
+   color: #000;
+   text-decoration: none; 
+}
+

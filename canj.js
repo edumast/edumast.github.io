@@ -12,6 +12,7 @@
 						var ay=10;
 						var ax=10;
 						var clu="red";
+						var bfc="blue";
 						var xp;				 
 						var yp;
 						var hp=10;
@@ -29,7 +30,7 @@
 				
 						} 						
 						function lbp(){
-						ctx.fillStyle="blue";				
+						ctx.fillStyle=bfc;				
 ctx.clearRect(xp,yp,wp,hp);																	
 ctx.fillRect(xp,yp,wp,hp);
 	
