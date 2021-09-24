@@ -1,5 +1,3 @@
-
-												
 						var ctx;										
 						var ad=10;			
 						var ae=10;
@@ -8,43 +6,31 @@
 					 var x=10;
 					 var y=10;
 					 var w=100;
-					 var h=100;
-					 var canvas;
+					 var h=100;			
 					 var can;
-					 var dir;
-					 var dis;
-					 var fnr;
-						var cfn;
+					 var dir;					
 						var ay=10;
 						var ax=10;
-						
+						var clu="red";
 						loop();
 						function loop(){								
 						can=document.getElementById("tc");
 						ctx=can.getContext("2d");								
 						ctx.clearRect(x, y, w, h);											
-						ctx.fillStyle = "blue";														
+						ctx.fillStyle = clu;														
 						ctx.fillRect(x , y, w, h);
 						requestAnimationFrame(loop) 
 				
 						} 						
-						function fr(){
-						
-						} 
-						
-																
-		
-										 
-			
 			$('#dir').on('touchstart',function(){ 
-			dis=1;		
+			dir=1;		
 			dire();
 							console.log("dir=1")			
 								
 							 }); 
 			$('#dir').on('touchend',function(){
-			console.log("2");
-			dis=2;
+			console.log("dir=2");
+			dir=2;
 			 });
 			 		$('#esq').on('touchstart',function(){ 
 			esq=1;		
@@ -77,11 +63,11 @@
 			bax=2;
 			 });
 		function dire(){
-		if(dis==1) {
+		if(dir==1) {
 
 									ctx.clearRect(x, y, w, h);
-																ax=ax+1;											
-										x=ax;						
+																x=x+1;											
+									
 									
 													
 									
@@ -93,8 +79,8 @@ function esqu(){
 		if(esq==1) {
 
 									ctx.clearRect(x, y, w, h);
-																ax=ax-1;															
-										x=ax;						
+																x=x-1;															
+											
 									
 													
 									
@@ -106,9 +92,7 @@ function esqu(){
 		if(cim==1) {
 
 									ctx.clearRect(x, y, w, h);
-																ay=ay-1;															
-										y=ay;						
-									
+														y=y-1;
 													
 									
 										setTimeout(cima, 0,1)	;
@@ -119,8 +103,8 @@ function esqu(){
 		if(bax==1) {
 
 									ctx.clearRect(x, y, w, h);
-																ay=ay+1;															
-										y=ay;						
+																y=y+1;															
+										
 									
 													
 									
@@ -128,8 +112,6 @@ function esqu(){
 										}
 					
 		}
-				
-											
 
 						
 						
