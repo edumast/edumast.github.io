@@ -11,13 +11,13 @@ width:100px;
 				background: blue;
 }
 .dir{
-	margin-left:300px	;
+	margin-left:00px	;
 	margin-top:450px;
 	border-top-right-radius:20%;
 	border-bottom-right-radius:20%;
 }
 .esq{
-	margin-left:-300px;
+	margin-left:-600px;
 	margin-top:-150px;
 	border-top-left-radius:20%;
 	border-bottom-left-radius:20%;
@@ -26,11 +26,19 @@ width:100px;
 				margin-top:-300px;
 				border-top-left-radius:20%;
 				border-top-right-radius:20%;
+				margin-left:-300px;
 }
 .bax{
 	margin-top:150px;			
 				border-bottom-left-radius:20%;
 				border-bottom-right-radius:20%;
+				margin-left:-300px;
+}
+.btp{
+				margin-left:500px;
+				margin-top:-300px;
+				border-radius:20%;
+				background: #ff000a;
 }
 .fl{float:left};
 .cn{

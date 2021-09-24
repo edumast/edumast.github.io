@@ -12,16 +12,29 @@
 						var ay=10;
 						var ax=10;
 						var clu="red";
+						var xp;				 
+						var yp;
+						var hp=10;
+						var wp=10;
 						loop();
+						lbp();
 						function loop(){								
 						can=document.getElementById("tc");
 						ctx=can.getContext("2d");								
-						ctx.clearRect(x, y, w, h);											
+						ctx.clearRect(x, y, w, h);		
+															
 						ctx.fillStyle=clu;														
 						ctx.fillRect(x , y, w, h);
 						requestAnimationFrame(loop) 
 				
 						} 						
+						function lbp(){
+						ctx.fillStyle="blue";				
+ctx.clearRect(xp, yp, wp,hp);																	
+ctx.fillRect(xp , yp, wp, hp);
+	
+requestAnimationFrame(lbp) 											
+} 
 			$('#dir').on('touchstart',function(){ 
 			dir=1;		
 			dire();
@@ -62,6 +75,14 @@
 			console.log("bax=2");
 			bax=2;
 			 });
+			 function onbp(){
+			bop=1;		
+		 bope();
+							console.log("bop=1")			
+							xp=x;
+							yp=y+50;	
+							 }
+			
 		function dire(){
 		if(dir==1) {
 
@@ -112,6 +133,39 @@ function esqu(){
 										}
 					
 		}
+function bope(){
+		if(bop==1) {
+	
+
+										ctx.clearRect(xp, yp, wp, hp);					
+																xp=xp+1;															
+					
+									
+													
+									
+										setTimeout(bope, 0,1)	;
+										}
+					
+		}
+
+
+											
+
+						
+						
+												
+		
+											
+
+						
+						
+												
+
+											
+
+						
+						
+												
 
 						
 						
