@@ -32,12 +32,12 @@ transform-style: preserve-3d;
   
     width: 500px;
   height: 500px    ;
-  line-height: 260px;  
-  
+  line-height: 260px;    
   text-align: center;
   font-weight: bold;
   font-size: 40px;
   background-repeat: no-repeat;
+  
 }
 .tra{
 transform: translateZ(500px) translateY(-500px);
@@ -49,6 +49,7 @@ width: 500px;
   font-weight: bold;
   font-size: 40px;
   color:white;
+  
 }
 .esq{
 transform: rotateX(90deg)
