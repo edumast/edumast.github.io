@@ -66,8 +66,8 @@ border-style:outset;
 width: 200px;
 font: bold 50px arial, sans-serif;
 text-shadow:none;
-background: #d71259;
-color: #00c0ff;
+background:#d71259;
+color:#00c0ff;
 }
 .gf{
 				width: 500px;
@@ -143,4 +143,12 @@ pó	display: none;
 .btg{
 				height:200px;
 				width:300px;
+}
+.inc{
+width:300px;
+height:100px;
+color:#65656e;
+font-size:40px;	 
+background:#8e95aa;
+border-radius:5%;
 }
