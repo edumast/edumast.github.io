@@ -152,3 +152,7 @@ font-size:40px;
 background:#8e95aa;
 border-radius:5%;
 }
+a {
+   color:blue;
+   text-decoration:none; 
+}
