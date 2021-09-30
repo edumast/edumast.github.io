@@ -67,7 +67,13 @@ width: 200px;
 font: bold 50px arial, sans-serif;
 text-shadow:none;
 background:#d71259;
-color:#00c0ff;
+
+}
+.nrm{
+				color:#00c0ff;
+}
+.df{
+				color:#2b2eff;
 }
 .gf{
 				width: 500px;
