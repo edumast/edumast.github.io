@@ -47,8 +47,8 @@ transform:translatex(400px) translatey(120px);
 .vtr{
 				width:300px;
 				height:100px;
-				margin-left:400px;
-				
+				margin-left:500px;
+margin-top:100px;				
 }
 .escpp{
 				border-color:#2b2eff;
@@ -61,5 +61,5 @@ color:blue;
 }
 .imp{
 		transform:translatex(100px);
-				margin-top:300px;
+				margin-top:100px;
 }
