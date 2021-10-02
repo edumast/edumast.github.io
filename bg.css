@@ -15,15 +15,15 @@ height:50px;
 				
 }
 .img{
-				transform:translatex(100px) translatey(300px);
+				transform:translatex(100px) translatey(00px);
 }
 .ds{
 font-size:100px;
-				transform:translatex(100px) translatey(-900px);
+				transform:translatex(100px) translatey(-100px);
 }
 .aut{
 				font-size:25px;
-				transform:translatex(100px) translatey(-940px);
+				transform:translatex(100px) translatey(-100px);
 }
 .ftg{
 				font-size:100px;
