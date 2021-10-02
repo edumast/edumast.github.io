@@ -9,8 +9,8 @@ body{
 }
 .txe{
 font-size:100px;
-width: 50px;
-height: 50px;
+width:50px;
+height:50px;
 				transform:translatex(700px) translatey(-110px);
 				
 }
@@ -37,8 +37,8 @@ font-size:100px;
 			border-radius:10%;
 }
 .bnc{
-height: 200px;
-width: 800px;
+height:200px;
+width:800px;
 background:blue;
 border-top-left-radius:5%;
 border-bottom-left-radius:5%;
@@ -46,15 +46,15 @@ transform:translatex(400px) translatey(120px);
 }
 .vtr{
 				width:300px;
-				height: 100px;
+				height:100px;
 				margin-left:400px;
 				
 }
 .escpp{
 				border-color:#2b2eff;
 border-style:outset;
-width: 200px;
-font: bold 50px arial, sans-serif;
+width:200px;
+font:bold 50px arial, sans-serif;
 text-shadow:none;
 background:#d71259;
 color:blue;
