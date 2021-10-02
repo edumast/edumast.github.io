@@ -60,5 +60,6 @@ background:#d71259;
 color:blue;
 }
 .imp{
+		transform:translatex(100px);
 				margin-top:300px;
 }
