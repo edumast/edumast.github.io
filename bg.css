@@ -50,3 +50,12 @@ transform:translatex(400px) translatey(120px);
 				margin-left:400px;
 				
 }
+.escpp{
+				border-color:#2b2eff;
+border-style:outset;
+width: 200px;
+font: bold 50px arial, sans-serif;
+text-shadow:none;
+background:#d71259;
+color:blue;
+}
