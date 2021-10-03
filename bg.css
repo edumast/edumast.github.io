@@ -58,6 +58,7 @@ font:bold 50px arial, sans-serif;
 text-shadow:none;
 background:#d71259;
 color:blue;
+border-radius:10%;
 }
 .imp{
 		transform:translatex(100px) translatey(50px);
