@@ -73,7 +73,7 @@ background:#d71259;
 				color:#00c0ff;
 }
 .df{
-				color:#2b2eff;
+				color:#256fdb;
 }
 .gf{
 				width: 500px;
@@ -161,4 +161,16 @@ border-radius:5%;
 a {
    color:blue;
    text-decoration:none; 
+}
+.bc1{
+			background:#8083ff;
+			width:900px;
+			height:1000px;
+			border-radius:10%;
+}
+.bc2{
+			background:#95a2ff;
+			width:900px;
+			height:1300px;
+			border-radius:10%;
 }
