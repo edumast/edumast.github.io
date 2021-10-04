@@ -11,7 +11,7 @@
   display:flex;
   justify-content:center;
   align-items:center; 
-  
+  margin-left:-10px;
 }
 .cbbx{
 width:100%;
@@ -103,4 +103,11 @@ width:500px;
 }
 .inv{
     transform: scaleX(-1);
+}
+.bcd{
+background:#80d6ff;
+overflow:auto;
+width:600px;
+height:100%;
+border-radius:15%;
 }

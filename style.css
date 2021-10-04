@@ -174,3 +174,19 @@ a {
 			height:1300px;
 			border-radius:10%;
 }
+.bcmu{
+			background:#95a2ff;
+			width:800px;
+			height:1200px;
+			overflow:auto; 
+			border-radius:10%;
+			margin-top:50px;
+}
+.bcun{
+				background:#95a2ff;
+			width:800px;
+			height:600px;
+			overflow:auto; 
+			border-radius:10%;
+			margin-top:50px;
+}
