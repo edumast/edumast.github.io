@@ -69,3 +69,19 @@ background: yellow;
 .qrd{
 				border-radius:5%;
 }
+.frd{
+background:#80acff;
+				
+				width:900px;
+				padding-top:100px;
+				padding-bottom:100px;
+				border-top-left-radius:10%;
+				border-bottom-left-radius:10%;
+				border-bottom-right-radius:10%;
+}
+.sbb{
+				margin-top:50px;
+}
+.sbb2{
+				margin-top:50px;
+}
