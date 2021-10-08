@@ -26,5 +26,8 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 				padding-top:0px;
 padding-bottom:25px;
 border-radius:10%;
+border-style:outset;
+border-color:#0003e6;
+border-width:5px;
 transform:translatey(-280px) translatex(500px);
 }
