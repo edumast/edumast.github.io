@@ -27,6 +27,6 @@ pc=true;
 				pc=false;							
 				}
 				if (pc==true){
-								alert("atenção este site não foi projetado para pc! as proporções de tela estarão erradas!")
+								alert("atenção este site não foi projetado para pc! as proporções de tela poderam estar erradas!")
 				}
 }
