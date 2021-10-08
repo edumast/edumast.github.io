@@ -47,9 +47,8 @@ color: white;
 }
 }
 .escp{
-				border-color:#95a2ff;
+				border-color:#8098ff;
 border-style:outset;
-
 font: bold 50px arial, sans-serif;
 text-shadow:none;
 background:#5582ff;
@@ -61,7 +60,7 @@ color: white;
 				
 }
 .escpp{
-				border-color:#2b2eff;
+border-color:#2b2eff;
 border-style:outset;
 width: 200px;
 font: bold 50px arial, sans-serif;
@@ -91,7 +90,8 @@ color: white;
 }
 .bdg{
 				border-width:10px;
-				border-style:ridge;
+				border-style:outset;
+				border-color:
 }
 .ved{
 		background: #5558ff;	
