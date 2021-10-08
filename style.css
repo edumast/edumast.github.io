@@ -199,3 +199,6 @@ a {
 .cp{
 				border-radius:5%;
 }
+img, embed, object, video {
+  max-width: 100%;
+}
