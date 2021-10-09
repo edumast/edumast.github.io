@@ -20,13 +20,3 @@ function stl(){
 				document.getElementById("hh").innerHTML=(texto);
 				return true;
 }
-pcteste();
-function pcteste(){
-pc=true;
-				if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) { 
-				pc=false;							
-				}
-				if (pc==true){
-								alert("atenção este site não foi projetado para pc! caso você esteja usando pc/notebook as proporções de tela poderam estar erradas!")
-				}
-}
