@@ -21,5 +21,5 @@ function stl(){
 				return true;
 }
 function at1() {
-				alert("ATENÇÃO! o site a seguir é uma satira não leve nada a serio")
+				alert("ATENÇÃO! o site a seguir é uma satira não leve nada a sério")
 }
