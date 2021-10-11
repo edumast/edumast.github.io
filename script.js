@@ -20,3 +20,6 @@ function stl(){
 				document.getElementById("hh").innerHTML=(texto);
 				return true;
 }
+function at1() {
+				alert("ATENÇÃO! o site a seguir é uma satira não leve nada a serio")
+}
