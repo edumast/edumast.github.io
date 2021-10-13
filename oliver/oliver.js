@@ -11,6 +11,14 @@ nome="edumast"
 var mdl=false;
 mdc=false;
 rs="\\_(0_0)_/";
+        const inputEle = document.getElementById('chmy');
+inputEle.addEventListener('keyup', function(e){
+  var key = e.which || e.keyCode;
+  if (key == 13) { 
+    env();
+  }
+}); 
+        
 chli=document.getElementById("chli").value;
 
 function env(){
@@ -50,14 +58,9 @@ mdc=true;
   }else if(chmy=="mudar idioma"||chmy=="idioma"){
   mdl=true;
   }
-  
+
+
+
+document.getElementById('chmy').value='';
 document.getElementById("chli").innerHTML=(rs);
 }
-const inputEle = document.getElementById('enter');
-inputEle.addEventListener('keyup', function(e){
-  var key = e.which || e.keyCode;
-  if (key == 13) { 
-    document.getElementById("chli").innerHTML=(chmy);
-  }
-});
-
