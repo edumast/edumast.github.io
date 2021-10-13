@@ -22,7 +22,7 @@ mdc=false;
     rs="Hello edumast";
   }else if(chmy=="bom dia"||chmy=="good day"){
   if (ling=="eng"){
-    rs="good day";
+    rs="good day!";
   }
   else if
     (ling=="br"){
