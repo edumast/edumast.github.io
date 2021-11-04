@@ -8,7 +8,7 @@ var ling;
 var nome;
 var mdl=false;
 ling="br"; 
-nome="edumast" 
+nome="user404" 
 mdc=false;
 rs="\\_(0_0)_/";
         const inputEle = document.getElementById('chmy');
