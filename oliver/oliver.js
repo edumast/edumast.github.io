@@ -5,10 +5,10 @@ var hhl;
 var bom;
 var mdc;
 var ling;
-ling="br"; 
 var nome;
-nome="edumast" 
 var mdl=false;
+ling="br"; 
+nome="user404" 
 mdc=false;
 rs="\\_(0_0)_/";
         const inputEle = document.getElementById('chmy');
@@ -57,8 +57,10 @@ mdc=true;
   mdl=false;
   }else if(chmy=="mudar idioma"||chmy=="idioma"){
   mdl=true;
-  }
-
+  }else if (chmy=='tudo bem'|| chmy=='ola tudo bem'|| chmy=='ola tudo bem?'|| chmy=='tudo bem?'){rs='tudo';}else if (chmy=='qual meu nome'|| chmy=='qual meu nome?'){rs="seu nome é "+nome;}
+else if (chmy=='qual seu nome'|| chmy=='qual seu nome?'||chmy=='what your name?'||chmy=='what your name'){
+  if (ling=="ing"){rs="my name is oliver!";}else if (ling=="br"){rs="meu nome é oliver!";}
+    } 
 
 
 document.getElementById('chmy').value='';

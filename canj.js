@@ -144,8 +144,9 @@ function bope(){
 									
 													
 									
-										setTimeout(bope, 0,1)	;
+										setTimeout(bope, 1)	;
 										}
+				
 					
 		}
 $('#vlt').click(function(){ window.location = "dc3.html"; });
