@@ -173,9 +173,10 @@ a {
 }
 .bc2{
 			background:#95a2ff;
-			width:900px;
-			height:1300px;
-			border-radius:10%;
+  width:900px;
+		padding-top:20px;
+  padding-bottom:20px;
+  border-radius:10%;
 }
 .bcmu{
 			background:#95a2ff;
@@ -204,4 +205,12 @@ img, embed, object, video {
 }
 .espg{
   height:100px;
+}
+.dcer{
+  transform:translatey(50px);
+}
+.bortyle{
+  border-style:outset;
+  border-width:10px;
+border-color:blue;
 }
