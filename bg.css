@@ -9,13 +9,14 @@ body{
 }
 .txe{
 font-size:100px;
-width:50px;
+width:150px;
 height:50px;
 				transform:translatex(700px) translatey(-110px);
 				
 }
 .img{
 				transform:translatex(100px) translatey(-100px);
+				
 }
 .ds{
 font-size:100px;
@@ -31,7 +32,7 @@ font-size:100px;
 }
 .fnt{
 				font-size:50px;
-				margin-left:150px;
+				margin-left:130px;			
 }
 .frd{
 			border-radius:10%;
@@ -126,4 +127,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:40px;
 						padding-bottom:180px;
+}
+.cima_ol{
+    margin-top:1000px;
 }
