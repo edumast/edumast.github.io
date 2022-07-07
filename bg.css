@@ -137,3 +137,10 @@ border-radius:10%;
 .cima_ol{
     margin-top:1000px;
 }
+.botao{
+    background:#bbe6f9;
+    padding:20px;
+    font-size:100px;
+    border-radius:10%;
+    border-width:0px;
+}
