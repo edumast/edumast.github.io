@@ -20,7 +20,7 @@ height:50px;
 }
 .ds{
 font-size:100px;
-				transform:translatex(100px) translatey(-100px);
+				transform:translatex(50px) translatey(-100px);
 }
 .aut{
 				font-size:25px;
@@ -28,7 +28,7 @@ font-size:100px;
 }
 .ftg{
 				font-size:100px;
-				margin-left:150px;
+				margin-left:100px;
 }
 .fnt{
 				font-size:50px;
@@ -87,6 +87,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:200px;
 				padding-bottom:180px;
+				padding-right:20px;
 }
 .rd2{
 						background:#bbe6f9;
@@ -95,7 +96,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:40px;
 				padding-bottom:180px;
-				padding-right:10px;
+				padding-right:20px;
 }
 .rd3{
 						background:#bbe6f9;
@@ -104,6 +105,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:40px;
 				padding-bottom:180px;
+				padding-right:20px;
 }
 .rd4{
 						background:#bbe6f9;
@@ -112,6 +114,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:40px;
 				padding-bottom:180px;
+				padding-right:20px;
 }
 .rd5{
 						background:#bbe6f9;
@@ -120,6 +123,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:30px;
 				padding-bottom:180px;
+				padding-right:20px;
 }
 .rd6{
 						background:#bbe6f9;
@@ -128,6 +132,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:40px;
 						padding-bottom:180px;
+						padding-right:20px;
 }
 .cima_ol{
     margin-top:1000px;
