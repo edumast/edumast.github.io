@@ -80,7 +80,21 @@ transform:translatex(400px) translatey(120px);
 				height:100px;
 				width:600px;
 }
-a {
+a{
    color:blue;
    text-decoration:none; 
+}
+
+.botao{
+    background:#bbe6f9;
+    
+    margin-left:500px;
+    height:150px;
+    font-size:50px;
+    border-radius:10%;
+    border-width:0px;
+}
+
+.hbotao{
+    margin-top:20px;
 }
