@@ -19,7 +19,7 @@ h = h - 12;
 h=checkTime(h);
 m=checkTime(m);
 s=checkTime(s);
-document.getElementById('relogio').innerHTML=h+":"+m+":"+s;
+document.getElementById('relogio').innerHTML=h+"<br>"+m+"<br>"+s;
 t=setTimeout('relog()',500);
 }
 function checkTime(i)
