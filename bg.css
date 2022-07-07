@@ -32,7 +32,7 @@ font-size:100px;
 }
 .fnt{
 				font-size:50px;
-				margin-left:50px;			
+				margin-left:80px;			
 }
 .frd{
 			border-radius:10%;
@@ -95,6 +95,7 @@ border-radius:10%;
 				border-radius:5%;
 				padding-top:40px;
 				padding-bottom:180px;
+				padding-right:10px;
 }
 .rd3{
 						background:#bbe6f9;
