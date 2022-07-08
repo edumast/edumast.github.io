@@ -1,17 +1,18 @@
 .bc{
 height:400px;
-width:1200px;
-transform:translatey(-100px) translatex(-10px);
+width:149%;
+transform:translatey(-25%) translatex(-1%);
 background:#4d36d6;
 }
 body{
 				background:#621daf;
 }
 .txe{
-font-size:100px;
-width:50px;
-height:50px;
-transform:translatex(500px) translatey(-110px);		
+font-size:800%;
+width:10%;
+height:10%;
+				transform: translatey(-340%)translatex(400%);
+				margin-right: auto;
 } 
 .img{
 				transform:translatex(100px) translatey(50px);
@@ -45,20 +46,22 @@ color:blue;
 border-radius:10%;
 }
 .bbm{
-height:40px;
-width:400px;
+height:10%;
+width:33.5%;
 background:#2b2eff;
 border-top-left-radius:5%;
 border-bottom-left-radius:5%;
-transform:translatex(800px) translatey(-50px);
+transform: translatey(-180%);
+margin-left: auto; 
 }
 .bnc{
-height:200px;
-width:800px;
+height:50%;
+width:66.5%;
 background:blue;
 border-top-left-radius:5%;
 border-bottom-left-radius:5%;
-transform:translatex(400px) translatey(120px);
+transform: translatey(60%);
+margin-left: auto;
 }
 .dnt{
 				height:1000px;
@@ -68,8 +71,9 @@ transform:translatex(400px) translatey(120px);
 				background:#95ccff;
 }
 .cnt{
-				margin-left:-200px;
-				margin-top:30px;
+				margin-left:-20%;
+				margin-top:3%;
+				font-size:50px;
 				
 }
 .rdp{
@@ -77,8 +81,8 @@ transform:translatex(400px) translatey(120px);
 				
 }
 .apq{
-				height:100px;
-				width:600px;
+				height:10%;
+				width:100%;
 }
 a{
    color:blue;
@@ -87,14 +91,19 @@ a{
 
 .botao{
     background:#bbe6f9;
-    
-    margin-left:500px;
-    height:150px;
-    font-size:50px;
+    padding-left:5%;
+    padding-right:5%;
+    font-size:200%;
     border-radius:10%;
     border-width:0px;
 }
-
-.hbotao{
-    margin-top:20px;
+.bota{
+    margin-left:50%;
+}
+.cnt_texto{
+    margin-left:-0%;
+    
+				
+				font-size:150%;
+    
 }
